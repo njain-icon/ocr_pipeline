@@ -1,0 +1,7 @@
+daemon:
+  port: 8000
+  host: localhost
+logging:
+  level: info
+  file: ocr_pipeline.log
+
