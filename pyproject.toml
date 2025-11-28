@@ -105,8 +105,8 @@ dependencies = [
   "paddlex==3.3.9",
   "huggingface-hub==0.30.1",
   "langchain==1.0.5",
-  "langchain-core",
-  "langchain-text-splitters"
+  "langchain-core==1.0.4",
+  "langchain-text-splitters==1.0.0"
 
   # Added for exponential backoff retry logic
 ]
